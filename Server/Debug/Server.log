@@ -1,0 +1,4 @@
+﻿  Server.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(D:\Debug\Server.exe) does not match the Linker's OutputFile property value (D:\ServerCilent\Server\Server\Debug\Server.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  Server.vcxproj -> D:\Debug\Server.exe
+  Server.vcxproj -> D:\ServerCilent\Server\Server\Debug\Server.pdb (Full PDB)
